@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Primeking47: A Water Engineer turned Data Scientist!
+# 👋 Hi, I’m Primeking47: A Water Engineer with AI/ML interest!
 
 With a decade of hands-on experience in designing and constructing water infrastructure, I'm not your typical data science student. Currently pursuing a Master's in Engineering (Data Science), I aim to bridge the gap between traditional water engineering and modern data insights. My mission is to drive innovation in water management through the application of data science and machine learning techniques. 
 
