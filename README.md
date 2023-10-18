@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Primeking47! Interested in the intersection of Water Engineering and AI/ML.
+# 👋 Hi there, I'm Primeking47, Interested in the intersection of Water Engineering and AI/ML.
 
 Leveraging a decade of hands-on experience in water infrastructure design and construction, I'm currently augmenting my skill set with a Master's in Engineering (Data Science). I'm on a mission to innovate water management by fusing traditional engineering practices with data science and machine learning.
 
