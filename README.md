@@ -15,7 +15,6 @@ Leveraging a decade of hands-on experience in water infrastructure design and co
 
 * Python ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 * R ![R](https://img.shields.io/badge/-R-black?style=flat&logo=r)
-* SQL ![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=sql)
 * Machine Learning ![ML](https://img.shields.io/badge/-ML-black?style=flat&logo=machinelearning)
 * Data Analysis ![DA](https://img.shields.io/badge/-DA-black?style=flat&logo=dataanalysis)
 
